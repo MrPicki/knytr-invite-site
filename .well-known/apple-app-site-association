@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "Q3VLLS2UF9.se.knytr.app"
+        ],
+        "components": [
+          {
+            "/": "/invite*",
+            "comment": "Öppna Knytrs engångsinbjudningar i iOS-appen"
+          }
+        ]
+      }
+    ]
+  }
+}
